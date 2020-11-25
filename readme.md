@@ -1,3 +1,3 @@
-# Blazore Academy
+# Blazor Academy
 
 Site Web pour Blazor
